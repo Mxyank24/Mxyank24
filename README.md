@@ -53,7 +53,7 @@ Deep-diving into **System Design** and advanced DSA patterns and algorithm optim
 
 ```
 Stack    : Next.js 16 · TypeScript · D3.js
-Features : BFS · DFS · Dijkstra · Sorting Visualizers · Number Theory
+Features : BFS · DFS · Dijkstra · Sorting Visualizers · Number Theory · STL · Templates · Resources · CP Guide · Many more..
 Status   : ✅ Active
 ```
 
