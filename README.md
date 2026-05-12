@@ -74,11 +74,11 @@ Status   : ✅ Active
 
 <div align="center">
 
-![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mxyank24&show_icons=true&theme=default&hide_border=true&title_color=333333&icon_color=555555&text_color=555555&bg_color=ffffff)
+![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mxyank24&show_icons=true&theme=github_dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mxyank24&theme=default&hide_border=true&ring=555555&fire=333333&currStreakLabel=333333&sideLabels=555555&dates=999999)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mxyank24&theme=github-dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mxyank24&layout=compact&hide_border=true&title_color=333333&text_color=555555&bg_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mxyank24&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
