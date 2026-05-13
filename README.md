@@ -1,4 +1,3 @@
-<!-- Header -->
 <div align="center">
 
 <h1>Mayank Kumar Singh</h1>
@@ -26,7 +25,7 @@ Contributing to the **Julia** programming language ecosystem — open source, ev
 <td width="50%" valign="top">
 
 ### Learning
-Deep-diving into **System Design** and advanced DSA patterns and algorithm optimization.
+Deep-diving into **DSA + Backend** — advanced data structures, system design & backend development.
 
 </td>
 </tr>
@@ -37,6 +36,7 @@ Deep-diving into **System Design** and advanced DSA patterns and algorithm optim
 ### Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00589D?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -53,7 +53,7 @@ Deep-diving into **System Design** and advanced DSA patterns and algorithm optim
 
 ```
 Stack    : Next.js 16 · TypeScript · D3.js
-Features : BFS · DFS · Dijkstra · Sorting Visualizers · Number Theory · STL · Templates · Resources · CP Guide · Many more..
+Features : BFS · DFS · Dijkstra · Sorting Visualizers · Number Theory
 Status   : ✅ Active
 ```
 
@@ -67,20 +67,6 @@ Status   : ✅ Active
 | 🏆 | **Competitive Programming** | Codeforces, USACO, CSES, LeetCode |
 | 🌳 | **Data Structures & Algorithms** | Advanced Data Structures |
 | 🟣 | **Open Source** | Active Julia contributor |
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mxyank24&show_icons=true&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Mxyank24&theme=github-dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mxyank24&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
 
 ---
 
